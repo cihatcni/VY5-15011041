@@ -6,7 +6,7 @@ Arithmetic Calculator
 Name : Cihat Bozkurt
 Surname : Cüni
 Student Number : 15011041
-Date : 20.05.2018
+Date : 07.06.2018
 E-Mail: cihatc52@gmail.com
 Compiler : GCC
 IDE: Geany 
